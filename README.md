@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there!! 👋
 
-<!--
-**yu-ssem/yu-ssem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a full-time student. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🙂 I'm looking forward to change the world through design and programming.
+  
+- ✨ I like building things out from my imagination: Programming/Design/Electronics/character illustration is my Hobby!
+  
+- ✏️ I'm currently lerning--> Front-end engineering, UI/UX Design through Figma, and Electronics!
+  
+- 🏹 My next goal is to build my own persoal webpage.
+  
+- 🔧 These are the tools I use: Programming: HTML/CSS/JS, C++  Design: Figma/Live2D  Illustration: Clip Studio Paint
+  
+- 📫 How to reach me: ...Through Instagram/Twitter(X)/Linkedin
+  
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

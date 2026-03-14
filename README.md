@@ -10,7 +10,9 @@ I am currently a full-time student.
   
 - 🏹 My next goal is to build my own persoal webpage.
   
-- 🔧 These are the tools I use: Programming: HTML/CSS/JS, C++  Design: Figma/Live2D  Illustration: Clip Studio Paint
+- 🔧 These are the tools I use: Programming: HTML/CSS/JS, C++
+                                Design: Figma/Live2D
+                                Illustration: Clip Studio Paint
   
 - 📫 How to reach me: ...Through Instagram/Twitter(X)/Linkedin
   

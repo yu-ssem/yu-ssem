@@ -8,9 +8,9 @@ I am currently a full-time student.
   
 - ✏️ I'm currently lerning--> Front-end engineering, UI/UX Design through Figma, and Electronics!
   
-- 🏹 My next goal is to build my own persoal webpage.
+- 🏹 My next goal is to build my own personal webpage.
   
-- 🔧 These are the tools I use: Programming: HTML/CSS/JS, C++
+- 🔧 These are the tools I(am planning to) use: Programming: HTML/CSS/JS, C++
                                 Design: Figma/Live2D
                                 Illustration: Clip Studio Paint
   
